@@ -17,5 +17,5 @@ Stack
 Sobre mim
 Estou em transição de carreira para a área de dados. Curso Inteligência Artificial na FIAP e trabalho com Python, SQL, Machine Learning e Cloud (AWS) nos projetos do curso.
 
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/pedro-moreira-19b455332/) | [GitHub](https://github.com/pedromoreira427)
 
