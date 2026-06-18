@@ -9,6 +9,7 @@ O que o dashboard mostra
 - Taxa de rotatividade (Attrition) — 16,12% de turnover no período analisado
 - Salário médio por departamento — Sales lidera, seguido de Human Resources e Research & Development
 - Attrition por departamento — Research & Development concentra o maior volume de saídas em números absolutos
+
 Stack
 - Power BI Desktop
 - DAX (medidas básicas)
